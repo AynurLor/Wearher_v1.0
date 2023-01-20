@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="s21_pogoda" />
+        <module name="Wearher_v1.0" />
       </profile>
     </annotationProcessing>
   </component>
