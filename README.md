@@ -1,10 +1,10 @@
 # Wearher_v1.0
 
-![](misc/images/weather_fon.png)
+![](misc/images/weather_fon.jpeg)
 
 ## Реализация прогноза погоды на текйщий день
 
-![](misc/images/weather_today.png)
+![](misc/images/weather_today.jpeg)
 
 Ознакомиться с JAVA Collection 
 Используя основные принципы ООП разработать приложение для прогноза погоды
